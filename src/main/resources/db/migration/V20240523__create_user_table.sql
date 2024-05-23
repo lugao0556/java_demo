@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS users (id serial PRIMARY KEY, name VARCHAR(255), email VARCHAR(255), id_card VARCHAR(255), age SMALLINT, department_code SMALLINT);
